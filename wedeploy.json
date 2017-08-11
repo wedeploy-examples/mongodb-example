@@ -1,5 +1,5 @@
 {
 	"id": "md",
-	"volume": "/data/db",
-	"port": 27017
+	"image": "mongo",
+	"volume": "/data/db"
 }
