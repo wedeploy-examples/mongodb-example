@@ -1,6 +1,6 @@
 # MongoDB [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [MongoDB](https://hub.docker.com/_/mongo/) on [WeDeploy](https://wedeploy.com/).
+An example of [MongoDB](https://hub.docker.com/_/mongo/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
