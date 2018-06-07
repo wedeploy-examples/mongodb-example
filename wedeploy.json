@@ -1,6 +1,5 @@
 {
   "id": "md",
-  "image": "mongo:3.7.9",
   "volumes": {
     "data": "/data/db"
   }
