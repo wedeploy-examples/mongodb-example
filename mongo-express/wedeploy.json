@@ -1,0 +1,10 @@
+{
+  "id": "express",
+  "image":  "mongo-express",
+  "port": 8081,
+  "env": {
+    "ME_CONFIG_MONGODB_ADMINUSERNAME": "root",
+    "ME_CONFIG_MONGODB_ADMINPASSWORD": "passw0rd"
+  },
+  "dependencies": ["mongo"]
+}

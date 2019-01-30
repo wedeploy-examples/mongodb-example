@@ -1,0 +1,14 @@
+{
+  "id": "mongo",
+  "image": "mongo:latest",
+  "port": 27017,
+  "volumes": {
+      "mongodb": "/data/db"
+  },
+  "env": {
+    "MONGO_INITDB_ROOT_USERNAME": "root",
+    "MONGO_INITDB_ROOT_PASSWORD": "passw0rd"
+  },
+  "zeroDowntime": false,
+  "public": false
+}

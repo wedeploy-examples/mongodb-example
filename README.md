@@ -1,8 +1,8 @@
 [![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/mongodb-example)
 
-# MongoDB
+# MongoDB and Mongo-Express
 
-An example of [MongoDB](https://hub.docker.com/_/mongo/) on [WeDeploy](https://wedeploy.com/).
+An example of [MongoDB](https://hub.docker.com/_/mongo/) and [Mongo Express](https://hub.docker.com/_/mongo-express) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
